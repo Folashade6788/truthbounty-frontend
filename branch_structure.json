@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-584-ui-fe-014-build-claim-review-and-authorization"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-584-ui-fe-014-build-claim-review-and-authorization": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-584-ui-fe-014-build-claim-review-and-authorization"
+  ]
+}
